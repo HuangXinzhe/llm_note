@@ -170,3 +170,4 @@ my_config.py
 zhihu_study_note/.env
 .my_env
 zhihu_study_note/05_rag_embeddings/data
+zhihu_study_note/05_rag_embeddings/chatpdf_answer_code
