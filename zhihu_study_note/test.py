@@ -20,5 +20,7 @@
 
 # print(response.choices[0].message["content"])
 
-def greeting(name: str) -> str:
-    return 'Hello ' + name
+# def greeting(name: str) -> str:
+#     return 'Hello ' + name
+
+
